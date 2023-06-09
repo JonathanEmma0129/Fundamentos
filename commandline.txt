@@ -1,6 +1,0 @@
--availablevidmem 12.0
--percentagevidmem 100
--novblank
--framelimit 0
--norestriction
--noprecache 
